@@ -1,0 +1,45 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.06.2014 23:25:45
+
+newmtl ElphSkin
+	Ns 48.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3700 0.3700 0.3700
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ElphSkin.G24
+	map_Kd ElphSkin.G24
+	map_bump -bm 0.6000 ElphSkin.G24
+
+newmtl Ele_Tuskh
+	Ns 6.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8392 0.8118 0.7373
+	Kd 0.9608 0.9294 0.8431
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka EleTusk.G24
+	map_Kd EleTusk.G24
+	map_bump -bm 0.3000 EleTusk.G24
+
+newmtl ElepEYE
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0078 0.0078 0.0118
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_refl LAKEREM.G24

@@ -1,0 +1,3124 @@
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+lights/ambient/frag.GLSL:
+lights/ambient/frag.glsl(88) : error C0151: EOF inside comment
+lights/ambient/frag.glsl(88) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/sphere/frag.GLSL:
+marker/sphere/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/sphere/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+
+marker/cylinder/frag.GLSL:
+marker/cylinder/frag.glsl(8) : error C1038: declaration of "OutColor" conflicts with previous declaration at commondf.glsl(96)
+marker/cylinder/frag.glsl(8) : error C7599: (location = 0, component = 0) already used
+

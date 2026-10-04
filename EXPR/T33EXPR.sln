@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T33EXPR", "T33EXPR.vcproj", "{8196E3BC-2A55-4274-A1DA-570C98D6867D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8196E3BC-2A55-4274-A1DA-570C98D6867D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8196E3BC-2A55-4274-A1DA-570C98D6867D}.Debug|Win32.Build.0 = Debug|Win32
+		{8196E3BC-2A55-4274-A1DA-570C98D6867D}.Release|Win32.ActiveCfg = Release|Win32
+		{8196E3BC-2A55-4274-A1DA-570C98D6867D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

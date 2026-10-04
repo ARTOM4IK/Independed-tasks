@@ -1,0 +1,72 @@
+test
+vert:
+Compile errors:
+glslc: error: cannot open input file: 'bin/shaders/test/vert.glsl'
+
+test
+vert:
+Compile errors:
+bin/shaders/test/vert.glsl:185: error: 'matrVP' : undeclared identifier
+1 error generated.
+
+test
+vert:
+Compile errors:
+glslc: error: cannot open input file: 'bin/shaders/test/vert.glsl'
+
+test
+vert:
+Compile errors:
+glslc: error: cannot open input file: 'bin/shaders/test/vert.glsl'
+
+test
+vert:
+Compile errors:
+bin/shaders/test/vert.glsl:184: error: 'matrVP' : undeclared identifier
+1 error generated.
+
+test
+vert:
+Compile errors:
+glslc: error: cannot open input file: 'bin/shaders/test/vert.glsl'
+
+test
+vert:
+Compile errors:
+bin/shaders/test/vert.glsl:153: error: 'OutJoints' : undeclared identifier
+bin/shaders/test/vert.glsl:153: error: 'assign' :  cannot convert from 'layout( location=4) in highp 4-component vector of int' to ' temp float'
+bin/shaders/test/vert.glsl:154: error: 'OutWeight' : undeclared identifier
+bin/shaders/test/vert.glsl:154: error: 'assign' :  cannot convert from 'layout( location=5) in highp 4-component vector of float' to ' temp float'
+bin/shaders/test/vert.glsl:174: error: 'OutJoints' : undeclared identifier
+bin/shaders/test/vert.glsl:174: error: 'assign' :  cannot convert from 'layout( location=4) in highp 4-component vector of int' to ' temp float'
+bin/shaders/test/vert.glsl:175: error: 'OutWeight' : undeclared identifier
+bin/shaders/test/vert.glsl:175: error: 'assign' :  cannot convert from 'layout( location=5) in highp 4-component vector of float' to ' temp float'
+8 errors generated.
+
+test
+vert:
+Compile errors:
+bin/shaders/test/vert.glsl:178: error: 'weights' : undeclared identifier
+bin/shaders/test/vert.glsl:178: error: 'totalWeight' : undeclared identifier
+bin/shaders/test/vert.glsl:178: error: '=' :  cannot convert from ' temp float' to ' temp highp 4-component vector of float'
+bin/shaders/test/vert.glsl:181: error: 'joints' : undeclared identifier
+bin/shaders/test/vert.glsl:182: error: 'y' : vector swizzle selection out of range
+bin/shaders/test/vert.glsl:183: error: 'z' : vector swizzle selection out of range
+bin/shaders/test/vert.glsl:184: error: 'w' : vector swizzle selection out of range
+7 errors generated.
+
+test
+vert:
+Compile errors:
+bin/shaders/test/vert.glsl:178: error: 'weights' : undeclared identifier
+bin/shaders/test/vert.glsl:178: error: 'y' : vector swizzle selection out of range
+bin/shaders/test/vert.glsl:178: error: 'z' : vector swizzle selection out of range
+bin/shaders/test/vert.glsl:178: error: 'w' : vector swizzle selection out of range
+4 errors generated.
+
+test
+vert:
+Compile errors:
+bin/shaders/test/vert.glsl:186: error: 'MatrWVP' : undeclared identifier
+1 error generated.
+

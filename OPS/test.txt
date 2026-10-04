@@ -1,0 +1,2 @@
+sashka = 2;
+vovcheck = 123;

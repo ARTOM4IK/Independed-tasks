@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T25LAB2D", "T25LAB2D.vcproj", "{1B58C8F1-3EBE-4CD8-B7E7-4ED23E84AF4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B58C8F1-3EBE-4CD8-B7E7-4ED23E84AF4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B58C8F1-3EBE-4CD8-B7E7-4ED23E84AF4A}.Debug|Win32.Build.0 = Debug|Win32
+		{1B58C8F1-3EBE-4CD8-B7E7-4ED23E84AF4A}.Release|Win32.ActiveCfg = Release|Win32
+		{1B58C8F1-3EBE-4CD8-B7E7-4ED23E84AF4A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

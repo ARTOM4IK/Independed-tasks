@@ -1,0 +1,3 @@
+﻿  main.cpp
+Z:\SUMCAMP\T04RBT\rbt.h(223,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  T04RBT.vcxproj -> Z:\SUMCAMP\T04RBT\x64\Debug\T04RBT.exe

@@ -1,0 +1,257 @@
+[ RUN      ] VecTest.JustEqualities
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(1, 1, 1) == mth::vec3<INT>(1, 1, 1)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(2, 2, 2) ~= vec3(2, 2, 2) (epsilon 5e-05)
+[       OK ] VecTest.JustEqualities
+[ RUN      ] MatrTest.Transpose
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mINT: matr1 == matr2
+[       OK ] MatrTest.Transpose
+[ RUN      ] MatrTest.TransformNormal
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(0, 1, 0) ~= vec3(0, 1, 0) (epsilon 0.001)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(6.123233995736766e-17, 0, -1) ~= vec3(0, 0, -1) (epsilon 1e-05)
+[       OK ] MatrTest.TransformNormal
+[ RUN      ] MatrTest.InvTranslateNormal
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(0, 1, 0) ~= vec3(0, 1, 0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(1, 0, 0) ~= vec3(1, 0, 0) (epsilon 1e-05)
+[       OK ] MatrTest.InvTranslateNormal
+[ RUN      ] MathMatrTest.ScaleTest
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mFLT: matr1 == matr2
+[       OK ] MathMatrTest.ScaleTest
+[ RUN      ] MathMatrTest.RotateXTest
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mFLT: matr1 == matr2
+[       OK ] MathMatrTest.RotateXTest
+[ RUN      ] MathMatrTest.RotateYTest
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mFLT: matr1 == matr2
+[       OK ] MathMatrTest.RotateYTest
+[ RUN      ] MathMatrTest.RotateZTest
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mFLT: matr1 == matr2
+[       OK ] MathMatrTest.RotateZTest
+[ RUN      ] MathMatrTest.RotateTest
+[38;2;255;255;0m[48;2;255;0;0mFAILED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 != matr2
+[ RUN      ] MatrTest.Determ
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mm.Determ() ~= -365074.555034 (epsilon 5e-04)
+[       OK ] MatrTest.Determ
+[ RUN      ] MatrTest.TransformPoint
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(10, 10, 11) ~= vec3(10, 10, 11) (epsilon 5e-04)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(0, -1, 6.123234262925839e-17) ~= vec3(0, -1, 0) (epsilon 5e-04)
+[       OK ] MatrTest.TransformPoint
+[ RUN      ] MatrTest.InvTransformPoint
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(0, 0, 1) ~= vec3(0, 0, 1) (epsilon 5e-04)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mvec3(9.999999999999998, 11.999999999999998, 6) ~= vec3(10, 12, 6) (epsilon 5e-04)
+[       OK ] MatrTest.InvTransformPoint
+[ RUN      ] MatrTest.MatrMulMatr
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[38;2;255;255;0m[48;2;255;0;0mFAILED: [38;2;255;255;255m[48;2;0;0;0mvec3(8, 0, -1.2246467991473532e-16) != vec3(-10, 0, 0) within 1e-05
+[ RUN      ] MatrTest.Ortho
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mDBL: matr1 == matr2
+[       OK ] MatrTest.Ortho
+[ RUN      ] MathVec3Test.AddVectorFloat
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(0.0) + mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(1.5, 3.2, 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(3.0, 4.7, 1.3) + mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(3.0 + 1.5, 4.7 + 3.2, 1.3 + 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) + mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(-3.0 + 1.5, 4.7 - 3.2, -1.3 + 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) + mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(1.5, -3.2, 4.1) + mth::vec3<FLT>(-3.0, 4.7, -1.3) (epsilon 1e-05)
+[       OK ] MathVec3Test.AddVectorFloat
+[ RUN      ] MathVec3Test.AddEqVectorFloat
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(0.0) += mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(1.5, 3.2, 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(3.0, 4.7, 1.3) += mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(3.0 + 1.5, 4.7 + 3.2, 1.3 + 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) += mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(-3.0 + 1.5, 4.7 - 3.2, -1.3 + 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) += mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(1.5, -3.2, 4.1) += mth::vec3<FLT>(-3.0, 4.7, -1.3) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) += mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(1.5, -3.2, 4.1) + mth::vec3<FLT>(-3.0, 4.7, -1.3) (epsilon 1e-05)
+[       OK ] MathVec3Test.AddEqVectorFloat
+[ RUN      ] MathVec3Test.SubVectorFloat
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(0.0) - mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(-1.5, -3.2, -4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(3.0, 4.7, 1.3) - mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(3.0 - 1.5, 4.7 - 3.2, 1.3 - 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) - mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(-3.0 - 1.5, 4.7 + 3.2, -1.3 - 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) - mth::vec3<FLT>(1.5, -3.2, 4.1) ~= -(mth::vec3<FLT>(1.5, -3.2, 4.1) - mth::vec3<FLT>(-3.0, 4.7, -1.3)) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(0.0) -= mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(-1.5, -3.2, -4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(3.0, 4.7, 1.3) -= mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(3.0 - 1.5, 4.7 - 3.2, 1.3 - 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) -= mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(-3.0 - 1.5, 4.7 + 3.2, -1.3 - 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) -= mth::vec3<FLT>(1.5, -3.2, 4.1) ~= -(mth::vec3<FLT>(1.5, -3.2, 4.1) -= mth::vec3<FLT>(-3.0, 4.7, -1.3)) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) -= mth::vec3<FLT>(1.5, -3.2, 4.1) ~= -(mth::vec3<FLT>(1.5, -3.2, 4.1) - mth::vec3<FLT>(-3.0, 4.7, -1.3)) (epsilon 1e-05)
+[       OK ] MathVec3Test.SubVectorFloat
+[ RUN      ] MathVec3Test.MulVectorFloat
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(0.0) * mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(0.0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(3.0, 4.7, 1.3) * mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(3.0 * 1.5, 4.7 * 3.2, 1.3 * 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) * mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>((-3.0) * 1.5, 4.7 * (-3.2), (-1.3) * 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) * mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(1.5, -3.2, 4.1) * mth::vec3<FLT>(-3.0, 4.7, -1.3) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-1.0) * mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(-1.5, 3.2, -4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(1.0) * mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(1.5, -3.2, 4.1) (epsilon 1e-05)
+[       OK ] MathVec3Test.MulVectorFloat
+[ RUN      ] MathVec3Test.MulEqVectorFloat
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(0.0) *= mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(0.0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(3.0, 4.7, 1.3) *= mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(3.0 * 1.5, 4.7 * 3.2, 1.3 * 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) *= mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>((-3.0) * 1.5, 4.7 * (-3.2), (-1.3) * 4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) *= mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(1.5, -3.2, 4.1) *= mth::vec3<FLT>(-3.0, 4.7, -1.3) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-3.0, 4.7, -1.3) *= mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(1.5, -3.2, 4.1) * mth::vec3<FLT>(-3.0, 4.7, -1.3) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-1.0) *= mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(-1.5, 3.2, -4.1) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(1.0) *= mth::vec3<FLT>(1.5, -3.2, 4.1) ~= mth::vec3<FLT>(1.5, -3.2, 4.1) (epsilon 1e-05)
+[       OK ] MathVec3Test.MulEqVectorFloat
+[ RUN      ] MathVec3Test.AddVectorDouble
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(0.0) + mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(1.5, 3.2, 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(3.0, 4.7, 1.3) + mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(3.0 + 1.5, 4.7 + 3.2, 1.3 + 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) + mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(-3.0 + 1.5, 4.7 - 3.2, -1.3 + 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) + mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(1.5, -3.2, 4.1) + mth::vec3<DBL>(-3.0, 4.7, -1.3) (epsilon 1e-12)
+[       OK ] MathVec3Test.AddVectorDouble
+[ RUN      ] MathVec3Test.AddEqVectorDouble
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(0.0) += mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(1.5, 3.2, 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(3.0, 4.7, 1.3) += mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(3.0 + 1.5, 4.7 + 3.2, 1.3 + 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) += mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(-3.0 + 1.5, 4.7 - 3.2, -1.3 + 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) += mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(1.5, -3.2, 4.1) += mth::vec3<DBL>(-3.0, 4.7, -1.3) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) += mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(1.5, -3.2, 4.1) + mth::vec3<DBL>(-3.0, 4.7, -1.3) (epsilon 1e-12)
+[       OK ] MathVec3Test.AddEqVectorDouble
+[ RUN      ] MathVec3Test.SubVectorDouble
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(0.0) - mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(-1.5, -3.2, -4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(3.0, 4.7, 1.3) - mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(3.0 - 1.5, 4.7 - 3.2, 1.3 - 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) - mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(-3.0 - 1.5, 4.7 + 3.2, -1.3 - 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) - mth::vec3<DBL>(1.5, -3.2, 4.1) ~= -(mth::vec3<DBL>(1.5, -3.2, 4.1) - mth::vec3<DBL>(-3.0, 4.7, -1.3)) (epsilon 1e-12)
+[       OK ] MathVec3Test.SubVectorDouble
+[ RUN      ] MathVec3Test.SubEqVectorDouble
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(0.0) -= mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(-1.5, -3.2, -4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(3.0, 4.7, 1.3) -= mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(3.0 - 1.5, 4.7 - 3.2, 1.3 - 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) -= mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(-3.0 - 1.5, 4.7 + 3.2, -1.3 - 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) -= mth::vec3<DBL>(1.5, -3.2, 4.1) ~= -(mth::vec3<DBL>(1.5, -3.2, 4.1) -= mth::vec3<DBL>(-3.0, 4.7, -1.3)) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) -= mth::vec3<DBL>(1.5, -3.2, 4.1) ~= -(mth::vec3<DBL>(1.5, -3.2, 4.1) - mth::vec3<DBL>(-3.0, 4.7, -1.3)) (epsilon 1e-12)
+[       OK ] MathVec3Test.SubEqVectorDouble
+[ RUN      ] MathVec3Test.MulVectorDouble
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(0.0) * mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(0.0) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(3.0, 4.7, 1.3) * mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(3.0 * 1.5, 4.7 * 3.2, 1.3 * 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) * mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>((-3.0) * 1.5, 4.7 * (-3.2), (-1.3) * 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) * mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(1.5, -3.2, 4.1) * mth::vec3<DBL>(-3.0, 4.7, -1.3) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-1.0) * mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(-1.5, 3.2, -4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(1.0) * mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(1.5, -3.2, 4.1) (epsilon 1e-12)
+[       OK ] MathVec3Test.MulVectorDouble
+[ RUN      ] MathVec3Test.MulEqVectorDouble
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(0.0) *= mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(0.0) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(3.0, 4.7, 1.3) *= mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(3.0 * 1.5, 4.7 * 3.2, 1.3 * 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) *= mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>((-3.0) * 1.5, 4.7 * (-3.2), (-1.3) * 4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) *= mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(1.5, -3.2, 4.1) *= mth::vec3<DBL>(-3.0, 4.7, -1.3) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-3.0, 4.7, -1.3) *= mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(1.5, -3.2, 4.1) * mth::vec3<DBL>(-3.0, 4.7, -1.3) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-1.0) *= mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(-1.5, 3.2, -4.1) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(1.0) *= mth::vec3<DBL>(1.5, -3.2, 4.1) ~= mth::vec3<DBL>(1.5, -3.2, 4.1) (epsilon 1e-12)
+[       OK ] MathVec3Test.MulEqVectorDouble
+[ RUN      ] MathVec3Test.MultiplyNumber
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(-24, 0, 123) * 13.2 == mth::vec3<INT>(-312, 0, 1599)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-24, 0, 123) * 13.2 ~= mth::vec3<FLT>(-316.8, 0, 1623.6) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-24, 0, 123) * 13.2 ~= mth::vec3<DBL>(-316.8, 0, 1623.6) (epsilon 1e-12)
+[       OK ] MathVec3Test.MultiplyNumber
+[ RUN      ] MathVec3Test.DivideNumber
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(52, 42, 47) / 30 == mth::vec3<INT>(1, 1, 1)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(52, 42, 47) / 30 ~= mth::vec3<FLT>(1.733333333333333, 1.4, 1.566666666666667) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(52, 42, 47) / 30 ~= mth::vec3<DBL>(1.733333333333333, 1.4, 1.566666666666667) (epsilon 1e-12)
+[       OK ] MathVec3Test.DivideNumber
+[ RUN      ] MathVec3Test.MultiplyEqNumber
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(-24, 0, 30) *= 13.2 == mth::vec3<INT> (-312, 0, 390)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(-24, 0, 30) *= 13.2 ~= mth::vec3<FLT> (-316.8, 0, 396) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(-24, 0, 30) *= 13.2 ~= mth::vec3<DBL> (-316.8, 0, 396) (epsilon 1e-12)
+[       OK ] MathVec3Test.MultiplyEqNumber
+[ RUN      ] MathVec3Test.DivideEqNumber
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(52, 42, 47) /= 30 == mth::vec3<INT>(1, 1, 1)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(52, 42, 47) /= 30 ~= mth::vec3<FLT>(1.733333333333333, 1.4, 1.566666666666667) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(52, 42, 47) /= 30 ~= mth::vec3<DBL>(1.733333333333333, 1.4, 1.566666666666667) (epsilon 1e-12)
+[       OK ] MathVec3Test.DivideEqNumber
+[ RUN      ] MathVec3Test.Neg
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m-mth::vec3<INT>(52, 42, 47) == mth::vec3<INT>(-52, -42, -47)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m-mth::vec3<FLT>(52, 42, 47) ~= mth::vec3<FLT>(-52, -42, -47) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m-mth::vec3<DBL>(52, 42, 47) ~= mth::vec3<DBL>(-52, -42, -47) (epsilon 1e-12)
+[       OK ] MathVec3Test.Neg
+[ RUN      ] MathVec3Test.Normalize
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mV0.Normalize() ~= mth::vec3<DBL>(0.4242640687119, 0.5656854249492380230, 0.7071067811865) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mV1.Normalize() ~= mth::vec3<FLT>(0.4242640687119f, 0.5656854249492380230f, 0.7071067811865f) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mV2.Normalize() == mth::vec3<INT>(0, 0, 0)
+[       OK ] MathVec3Test.Normalize
+[ RUN      ] MathVec3Test.Normalizing
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mV0.Normalizing() ~= mth::vec3<DBL>(14.0 / 66.5206734782503536252301, 65.0 / 66.5206734782503536252301, 2.0 / 66.5206734782503536252301) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mV1.Normalizing() ~= mth::vec3<FLT>(14.0f / 66.5206734782503536252301f, 65.0f / 66.5206734782503536252301f, 2.0f / 66.5206734782503536252301f) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mV2.Normalizing() == mth::vec3<INT>(0, 0, 0)
+[       OK ] MathVec3Test.Normalizing
+[ RUN      ] MathVec3Test.ConstructorSingle
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(107.5312352341) ~= mth::vec3<DBL>(107.5312352341, 107.5312352341, 107.5312352341) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(107.58902) ~= mth::vec3<FLT>(107.58902, 107.58902, 107.58902) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(107) == mth::vec3<INT>(107, 107, 107)
+[       OK ] MathVec3Test.ConstructorSingle
+[ RUN      ] MathVec3Test.ConstructorFull
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(30, 30, 30) == mth::vec3<INT>(30, 30, 30)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(30.9132568312f, 2354.75342376f, 752.29623541f) ~= mth::vec3<FLT>(30.9132568312f, 2354.75342376f, 752.29623541f) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(30.9132568312, 2354.75342376, 752.29623541) ~= mth::vec3<DBL>(30.9132568312, 2354.75342376, 752.29623541) (epsilon 1e-12)
+[       OK ] MathVec3Test.ConstructorFull
+[ RUN      ] MathTest.Length
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m!mth::vec3<INT>(30, 30, 30) == 51
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(!mth::vec3<DBL>(30.9132568312, 2354.75342376, 752.29623541)) ~= (2472.1992116270509) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(!mth::vec3<FLT>(30.9132568312, 2354.75342376, 752.29623541)) ~= (2472.1992f) (epsilon 1e-05)
+[       OK ] MathTest.Length
+[ RUN      ] MathVec3Test.Length2
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(3, 4, 5).Length2() == 50
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<FLT>(1.0, 0, 0).Length2()) ~= (1.0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<DBL>(0, 0, 0).Length2()) ~= (0) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<DBL>(5, 4.7, 6).Length2()) ~= (83.09) (epsilon 1e-12)
+[       OK ] MathVec3Test.Length2
+[ RUN      ] MathVec3Test.Distance
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>(3, 0, 0).Distance(mth::vec3<INT>(0, 4, 0)) == 5
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<FLT>(1.0, 0, 0).Distance(mth::vec3<FLT>(1.0, 0, 0))) ~= (0.0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<DBL>(3.018080, 0, 0).Distance(mth::vec3<DBL>(1.018, 0, 0))) ~= (2.00008) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<DBL>(2.0, 0, 0).Distance(mth::vec3<DBL>(1.0, 0, 0))) ~= (1.0) (epsilon 1e-12)
+[       OK ] MathVec3Test.Distance
+[ RUN      ] MathVec3Test.GetStaticZero
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<INT>::Zero() == mth::vec3<INT>(0, 0, 0)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>::Zero() ~= mth::vec3<FLT>(0, 0, 0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>::Zero() ~= mth::vec3<DBL>(0, 0, 0) (epsilon 1e-12)
+[       OK ] MathVec3Test.GetStaticZero
+[ RUN      ] MathVec3Test.GetStaticRnd0
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.X ~= 0.5f (epsilon 0.5)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.Y ~= 0.5f (epsilon 0.5)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.Z ~= 0.5f (epsilon 0.5)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mb.X ~= 0.5 (epsilon 0.5)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mb.Y ~= 0.5 (epsilon 0.5)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mb.Z ~= 0.5 (epsilon 0.5)
+[       OK ] MathVec3Test.GetStaticRnd0
+[ RUN      ] MathVec3Test.GetStaticRnd1
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.X ~= 0.0f (epsilon 1)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.Y ~= 0.0f (epsilon 1)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.Z ~= 0.0f (epsilon 1)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mb.X ~= 0.0 (epsilon 1)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mb.Y ~= 0.0 (epsilon 1)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mb.Z ~= 0.0 (epsilon 1)
+[       OK ] MathVec3Test.GetStaticRnd1
+[ RUN      ] MathVec3Test.GetVectorCoordIndex
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.X == a[0]
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.Y == a[1]
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0ma.Z == a[2]
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(b.X) ~= (b[0]) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(b.Y) ~= (b[1]) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(b.Z) ~= (b[2]) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(c.X) ~= (c[0]) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(c.Y) ~= (c[1]) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(c.Z) ~= (c[2]) (epsilon 1e-12)
+[       OK ] MathVec3Test.GetVectorCoordIndex
+[ RUN      ] MathVec3Test.DotProduct
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<FLT>(1.2, 1.6, 3.0) & mth::vec3<FLT>(1.5, 3.2, 4.1)) ~= (1.5 * 1.2 + 3.2 * 1.6 + 4.1 * 3.0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<FLT>(0.0, 0.0, 0.0) & mth::vec3<FLT>(1.5, 3.2, 4.1)) ~= (0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<DBL>(1.2, 1.6, 3.0) & mth::vec3<DBL>(1.5, 3.2, 4.1)) ~= (1.5 * 1.2 + 3.2 * 1.6 + 4.1 * 3.0) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(mth::vec3<DBL>(0.0, 0.0, 0.0) & mth::vec3<DBL>(1.5, 3.2, 4.1)) ~= (0) (epsilon 1e-12)
+[       OK ] MathVec3Test.DotProduct
+[ RUN      ] MathVec3Test.CrossProduct
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(1.2, 1.6, 3.0) % mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(1.6 * 4.1 - 3.0 * 3.2, -(1.2 * 4.1 - 3.0 * 1.5), 1.2 * 3.2 - 1.6 * 1.5) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<FLT>(0.0, 0.0, 0.0) % mth::vec3<FLT>(1.5, 3.2, 4.1) ~= mth::vec3<FLT>(0, 0, 0) (epsilon 1e-05)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(1.2, 1.6, 3.0) % mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(1.6 * 4.1 - 3.0 * 3.2, -(1.2 * 4.1 - 3.0 * 1.5), 1.2 * 3.2 - 1.6 * 1.5) (epsilon 1e-12)
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0mmth::vec3<DBL>(0.0, 0.0, 0.0) % mth::vec3<DBL>(1.5, 3.2, 4.1) ~= mth::vec3<DBL>(0, 0, 0) (epsilon 1e-12)
+[       OK ] MathVec3Test.CrossProduct
+[ RUN      ] MathVec3Test.PointerCoord
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(INT)(FLT *)a == (INT)&a.X
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(INT)(DBL *)b == (INT)&b.X
+[38;2;255;255;255m[48;2;0;136;0mPASSED: [38;2;255;255;255m[48;2;0;0;0m(INT)(INT *)c == (INT)&c.X
+[       OK ] MathVec3Test.PointerCoord
+TESTS PASSED: 42, FAILED: 2
+
+G3DM: prims 14, mtls 6, texs5
+Load prim:     1 of    14Load prim:     2 of    14Load prim:     3 of    14Load prim:     4 of    14Load prim:     5 of    14Load prim:     6 of    14Load prim:     7 of    14Load prim:     8 of    14Load prim:     9 of    14Load prim:    10 of    14Load prim:    11 of    14Load prim:    12 of    14Load prim:    13 of    14Load prim:    14 of    14
+Load materials
+Load textures
+Finilize, total triangles: 178736
+

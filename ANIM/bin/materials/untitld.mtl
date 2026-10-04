@@ -1,0 +1,33 @@
+default_shader skinning/skinning
+
+newmtl HotGirl01BodyCloth
+  Ka 0 0 0
+  Kd 1 1 1
+  Ks 0.2 0.2 0.2
+  map_Kd bin/models/Girl/Hotgirl01_Body_D.dds
+  map_Ks bin/models/Girl/Hotgirl01_Body_S.dds
+  map3 bin/models/Girl/Hotgirl01_Body_N.dds
+
+newmtl HotGirl01BodySkin
+  Ka 0 0 0
+  Kd 1 1 1
+  Ks 0.2 0.2 0.2
+  map_Kd bin/models/Girl/Hotgirl01_Body_D.dds
+  map_Ks bin/models/Girl/Hotgirl01_Body_S.dds
+  map3 bin/models/Girl/Hotgirl01_Body_N.dds
+
+newmtl HotGirl01Hair
+  Ka 0 0 0
+  Kd 1 1 1
+  Ks 0.2 0.2 0.2
+  map_Kd bin/models/Girl/Hotgirl01_Head_D.dds
+  map_Ks bin/models/Girl/Hotgirl01_Head_S.dds
+  map3 bin/models/Girl/Hotgirl01_Head_N.dds
+
+newmtl HotGirl01Head
+  Ka 0 0 0
+  Kd 1 1 1
+  Ks 0.2 0.2 0.2
+  map_Kd bin/models/Girl/Hotgirl01_Head_D.dds
+  map_Ks bin/models/Girl/Hotgirl01_Head_S.dds
+  map3 bin/models/Girl/Hotgirl01_Head_N.dds

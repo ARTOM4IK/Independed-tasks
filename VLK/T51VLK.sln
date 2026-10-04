@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36602.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T51VLK", "T51VLK.vcxproj", "{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}.Debug|x64.ActiveCfg = Debug|x64
+		{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}.Debug|x64.Build.0 = Debug|x64
+		{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}.Debug|x86.Build.0 = Debug|Win32
+		{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}.Release|x64.ActiveCfg = Release|x64
+		{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}.Release|x64.Build.0 = Release|x64
+		{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}.Release|x86.ActiveCfg = Release|Win32
+		{D932C055-B16E-4BE9-819B-B5C0FE8B74C6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D834ADA9-C14B-4752-BDC4-ED2CC1834CBE}
+	EndGlobalSection
+EndGlobal
